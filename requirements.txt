@@ -1,0 +1,7 @@
+gradio>=4.0.0
+transformers>=4.38.0
+torch
+pillow
+requests
+beautifulsoup4
+lxml
