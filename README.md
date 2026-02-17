@@ -7,6 +7,13 @@ A small, production-style Gradio application that:
 
 This repository is structured to be GitHub-friendly and deployable to **Hugging Face Spaces** (Gradio SDK) or via **Docker**.
 
+## Live Demo
+
+The app is deployed on Hugging Face Spaces:
+
+- Space page: https://huggingface.co/spaces/aliabbi/image-captioning-blip
+- Direct app URL: https://aliabbi-image-captioning-blip.hf.space
+
 ---
 
 ## Features
@@ -131,6 +138,8 @@ Push the repository (or upload files) including at least:
 - `README.md`
 
 Hugging Face will install `requirements.txt` and run `app.py` automatically.
+
+**Deployed demo:** https://aliabbi-image-captioning-blip.hf.space
 
 > The `Dockerfile` is optional for Gradio Spaces. Hugging Face does not use it unless you choose **SDK: Docker**.
 
